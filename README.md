@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rguedes28
-- 👀 I’m interested in ...   aprender  e desenvolve
+- 👀 I’m interested in ...   aprender  e desenvolver
 - 🌱 I’m currently learning ... java script     
 - 💞️ I’m looking to collaborate on ...programadores ao redor do mundo    
 - 📫 How to reach me ...email:rafaelpguedes@gmail.com
